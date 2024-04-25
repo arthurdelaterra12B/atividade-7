@@ -43,3 +43,30 @@ p{
     line-height: 150%;
     margin-bottom: 32px;
 }
+
+.personagem h2{
+    text-align: center;
+}
+
+a{
+    display: block;
+    width: 100%;
+    padding: 13px;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    background-color: #202020;
+    border: none;
+    border-radius: 22px;
+    transition: all ease-in-out 0.3s;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #2491cf;
+    background-color: #202020;
+    cursor: pointer;
+}
