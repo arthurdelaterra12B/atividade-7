@@ -21,7 +21,7 @@ body > div{
 
 h1{
     font-size: 40px;
-    color: #303030;
+    color: #1e293b;
     line-height: 100%;
     margin-bottom: 24px;
     text-align: center;
@@ -36,6 +36,7 @@ img{
 #historia{
     margin-bottom: 10px;
     text-align: center;
+    color: #334155;
 }
 
 p{
@@ -46,6 +47,7 @@ p{
 
 .personagem h2{
     margin-bottom: 10px;
+    color: #ea580c;
     text-align: center;
 }
 
